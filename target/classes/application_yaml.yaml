@@ -1,0 +1,8 @@
+spring:
+  jpa:
+    hibearnate:
+      ddl-auto:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/backend
+    username: postgres
+    password: test1234
